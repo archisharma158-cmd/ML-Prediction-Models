@@ -176,4 +176,4 @@ This project demonstrates the complete workflow of a machine learning classifica
 
 GitHub: *https://github.com/archisharma158-cmd*
 
-LinkedIn: *(https://www.linkedin.com/in/archi-sharma-05a3a2371?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
+LinkedIn: *https://www.linkedin.com/in/archisharma158/*

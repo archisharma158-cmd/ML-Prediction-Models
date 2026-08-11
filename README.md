@@ -303,6 +303,7 @@ Prediction
 
 This repository is part of my ongoing journey of learning, experimenting, and building practical Machine Learning projects.
 
+**Linkedin :** https://github.com/archisharma158-cmd
 ---
 
 ## ⭐ Feedback
